@@ -8,7 +8,7 @@
 | Integrated Graphics | Intel UHD Graphics 630, 1536 MB RAM assigned |
 |               Audio | Realtek ALC255 (Layout-id:`31`)              |
 |            Ethernet | Killer E2500 Gigabit Ethernet Controller     |
-|  WiFi and Bluetooth | BCM4360 802.11ac WLAN + Bluetooth 4.0        |
+|  WiFi and Bluetooth | Wi-Fi 802.11ac Killer + Bluetooth 5.0        |
 
 ## What's working
 
